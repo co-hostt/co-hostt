@@ -1,5 +1,5 @@
 <p align="center">
 big fat wip im sorry
   <p align="center">
-<img width="33%" src="https://64.media.tumblr.com/fd35cf12725a4247eb82be57c63966ce/f3d2d6bad6f51320-08/s400x600/da82c7b34912851dd2ab3a62663fc71064c63766.gifv" width="60">
-</p>
+<img width="500" height="447" alt="image" src="https://github.com/user-attachments/assets/c95cefef-49b6-4916-b165-761c98a75360" />
+
